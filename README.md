@@ -1,2 +1,2 @@
 # fantastic-octo-bassoon
-My first git rep
+My first git repository
